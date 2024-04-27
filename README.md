@@ -1,6 +1,6 @@
 # CRUD de Categorias
 
-Projeto para estudo de tecnologias web como: Node.Js, PostgreSQL e Prisma.
+Projeto para estudo de tecnologias web como: Node.Js, PostgreSQL e Prisma ORM.
 
 Uma CRUD com 4 operações básicas GET, PUT, POST e DELETE.
 
@@ -31,7 +31,7 @@ npm start
 
 * [JAVASCRIPT](https://www.w3schools.com/js/default.asp) - Usada para criar a interação da página com o usuário.
 * [NODE.JS](https://nodejs.org/en) - Usado para rodar o JavaScript direto na máquina.
-* [NODE.JS](https://nodejs.org/en) - Usado para rodar o JavaScript direto na máquina.
+* [PRISMA](https://www.prisma.io/docs/orm/overview/databases/postgresql) - Usado para facilitar a interação entre o código da aplicação e os dados armazenados em um banco de dados relacional.
 
 
 ## ✒️ Autores
